@@ -1,0 +1,8 @@
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/NoteEntryPage.xaml.g.cs
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.csproj.CoreCompileInputs.cache
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.AssemblyInfoInputs.cache
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.AssemblyInfo.cs
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.dll
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.pdb
