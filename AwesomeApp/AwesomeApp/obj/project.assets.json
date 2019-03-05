@@ -352,7 +352,7 @@
       "projectName": "AwesomeApp",
       "projectPath": "/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/AwesomeApp/AwesomeApp/AwesomeApp.csproj",
       "packagesPath": "/Users/oskarthansen/.nuget/packages/",
-      "outputPath": "/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/AwesomeApp/AwesomeApp/obj",
+      "outputPath": "/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/AwesomeApp/AwesomeApp/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

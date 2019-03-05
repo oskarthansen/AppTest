@@ -784,8 +784,9 @@
       "projectName": "AwesomeApp.Android",
       "projectPath": "/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/AwesomeApp/AwesomeApp.Android/AwesomeApp.Android.csproj",
       "packagesPath": "/Users/oskarthansen/.nuget/packages/",
-      "outputPath": "/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/AwesomeApp/AwesomeApp.Android/obj",
+      "outputPath": "/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/AwesomeApp/AwesomeApp.Android/obj/",
       "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
       "configFilePaths": [
         "/Users/oskarthansen/.config/NuGet/NuGet.Config"
       ],

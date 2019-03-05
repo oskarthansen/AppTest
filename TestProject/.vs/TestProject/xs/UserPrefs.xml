@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{37401AB1-68C4-47A3-BAC8-44BA60143BBC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestProject.iOS/Info.plist">
+    <Files>
+      <File FileName="TestProject/Views/LoginView.xaml" Line="29" Column="27" />
+      <File FileName="TestProject/Views/LoginView.xaml.cs" Line="16" Column="15" />
+      <File FileName="TestProject/Models/LoginModel.cs" Line="14" Column="13" />
+      <File FileName="TestProject/App.xaml.cs" Line="16" Column="10" />
+      <File FileName="TestProject.iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="TestProject.iOS/Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestProject" expanded="True">
+            <Node name="TestProject" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="Images" expanded="True" />
+              </Node>
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True" />
+            </Node>
+            <Node name="TestProject.iOS" expanded="True">
+              <Node name="Info.plist" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TestProject.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TestProject.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8D595BEC-A468-44BA-9EBC-97BDDEB0A5D6" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

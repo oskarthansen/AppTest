@@ -6,3 +6,8 @@
 /Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.AssemblyInfo.cs
 /Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.dll
 /Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.pdb
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/AwesomeApp/AwesomeApp/bin/Debug/netstandard2.0/AwesomeApp.deps.json
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/AwesomeApp/AwesomeApp/bin/Debug/netstandard2.0/AwesomeApp.dll
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/AwesomeApp/AwesomeApp/bin/Debug/netstandard2.0/AwesomeApp.pdb
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.csprojAssemblyReference.cache
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/XamlC.stamp

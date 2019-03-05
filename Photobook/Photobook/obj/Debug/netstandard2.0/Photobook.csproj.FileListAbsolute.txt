@@ -1,0 +1,15 @@
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/Photobook/Photobook/bin/Debug/netstandard2.0/Photobook.deps.json
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/Photobook/Photobook/bin/Debug/netstandard2.0/Photobook.dll
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/Photobook/Photobook/bin/Debug/netstandard2.0/Photobook.pdb
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/Photobook/Photobook/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/Photobook/Photobook/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/Photobook/Photobook/obj/Debug/netstandard2.0/View/MainPageView.xaml.g.cs
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/Photobook/Photobook/obj/Debug/netstandard2.0/View/StartUpView.xaml.g.cs
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/Photobook/Photobook/obj/Debug/netstandard2.0/View/UserImagesView.xaml.g.cs
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/Photobook/Photobook/obj/Debug/netstandard2.0/Photobook.csproj.CoreCompileInputs.cache
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/Photobook/Photobook/obj/Debug/netstandard2.0/Photobook.AssemblyInfoInputs.cache
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/Photobook/Photobook/obj/Debug/netstandard2.0/Photobook.AssemblyInfo.cs
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/Photobook/Photobook/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/Photobook/Photobook/obj/Debug/netstandard2.0/Photobook.dll
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/Photobook/Photobook/obj/Debug/netstandard2.0/Photobook.pdb
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/Photobook/Photobook/obj/Debug/netstandard2.0/Photobook.csprojAssemblyReference.cache

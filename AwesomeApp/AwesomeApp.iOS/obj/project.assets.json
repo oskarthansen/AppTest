@@ -722,8 +722,9 @@
       "projectName": "AwesomeApp.iOS",
       "projectPath": "/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/AwesomeApp/AwesomeApp.iOS/AwesomeApp.iOS.csproj",
       "packagesPath": "/Users/oskarthansen/.nuget/packages/",
-      "outputPath": "/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/AwesomeApp/AwesomeApp.iOS/obj",
+      "outputPath": "/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/AwesomeApp/AwesomeApp.iOS/obj/",
       "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
       "configFilePaths": [
         "/Users/oskarthansen/.config/NuGet/NuGet.Config"
       ],

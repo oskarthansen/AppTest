@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="AwesomeApp.NoteEntryPage"
-             Title="Note Entry">
-    <StackLayout Margin="20">
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="AwesomeApp.NoteEntryPage"
+             Title="Note entry">
+    <ContentPage.Content>
+            <StackLayout Margin="20">
         <Editor Placeholder="Enter your note"
                 Text="{Binding Text}"
                 HeightRequest="100" />
@@ -19,7 +18,5 @@
                     Clicked="OnDeleteButtonClicked"/>
         </Grid>
     </StackLayout>
+    </ContentPage.Content>
 </ContentPage>
-
-
-https://docs.microsoft.com/da-dk/xamarin/get-started/quickstarts/multi-page?pivots=macos

@@ -1,0 +1,12 @@
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/XamarinNew/XamarinNew/bin/Debug/netstandard2.0/XamarinNew.deps.json
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/XamarinNew/XamarinNew/bin/Debug/netstandard2.0/XamarinNew.dll
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/XamarinNew/XamarinNew/bin/Debug/netstandard2.0/XamarinNew.pdb
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/XamarinNew/XamarinNew/obj/Debug/netstandard2.0/XamarinNew.csprojAssemblyReference.cache
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/XamarinNew/XamarinNew/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/XamarinNew/XamarinNew/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/XamarinNew/XamarinNew/obj/Debug/netstandard2.0/XamarinNew.csproj.CoreCompileInputs.cache
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/XamarinNew/XamarinNew/obj/Debug/netstandard2.0/XamarinNew.AssemblyInfoInputs.cache
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/XamarinNew/XamarinNew/obj/Debug/netstandard2.0/XamarinNew.AssemblyInfo.cs
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/XamarinNew/XamarinNew/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/XamarinNew/XamarinNew/obj/Debug/netstandard2.0/XamarinNew.dll
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/XamarinNew/XamarinNew/obj/Debug/netstandard2.0/XamarinNew.pdb

@@ -1,14 +1,26 @@
 ﻿<Properties StartupConfiguration="{28CB2643-489B-4FCC-B4A7-70F12A2CFAF5}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="AwesomeApp/NoteEntryPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AwesomeApp/NoteEntryPage.xaml">
     <Files>
       <File FileName="AwesomeApp/MainPage.xaml.cs" Line="36" Column="40" />
       <File FileName="AwesomeApp/MainPage.xaml" Line="22" Column="15" />
-      <File FileName="AwesomeApp/Models/Note.cs" Line="15" Column="2" />
-      <File FileName="AwesomeApp/NoteEntryPage.xaml" Line="6" Column="1" />
-      <File FileName="AwesomeApp/NoteEntryPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="AwesomeApp/Models/Note.cs" Line="2" Column="11" />
+      <File FileName="AwesomeApp/NoteEntryPage.xaml" Line="9" Column="15" />
+      <File FileName="AwesomeApp/NoteEntryPage.xaml.cs" Line="22" Column="24" NotebookId="1" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AwesomeApp" expanded="True">
+            <Node name="AwesomeApp" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="NoteEntryPage.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.AwesomeApp.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.AwesomeApp.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

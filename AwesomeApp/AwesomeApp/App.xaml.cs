@@ -7,6 +7,8 @@ namespace AwesomeApp
 {
     public partial class App : Application
     {
+        public static string FolderPath { get; internal set; }
+
         public App()
         {
             InitializeComponent();

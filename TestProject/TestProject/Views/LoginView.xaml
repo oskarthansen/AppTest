@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="TestProject.Views.LoginView"
+             
+             >
+    
+    <ContentPage.Content>
+        <Grid>
+            <Image Source="backgound.png" Aspect="AspectFill"/>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                </Grid.RowDefinitions>
+                
+                
+                <StackLayout Grid.Row="0" Margin="100">
+                    <Image Source="Logo.png" WidthRequest="230"/>
+                    <Label HorizontalOptions="Center" Text="Gæst"/>
+                </StackLayout>
+
+                
+                
+                <StackLayout VerticalOptions="Start" Grid.Row="1" >
+                    
+                    <Label Text="Username" />
+                    <Entry x:Name="usernameEntry" Text="{Binding Username}" Placeholder="Username" />
+                    <Label Text="Password" />
+                    <Entry x:Name="passwordEntry" Text="{Binding Password}" IsPassword="true" />
+                    <Button Text="Login" Command="{Binding SubmitCommand}"/>
+                    <Label x:Name="messageLabel" />
+                </StackLayout>
+                <Label Margin="0,0,0,15" Grid.Row="2" HorizontalTextAlignment="Center" Text="Terms of use"/>
+            </Grid>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

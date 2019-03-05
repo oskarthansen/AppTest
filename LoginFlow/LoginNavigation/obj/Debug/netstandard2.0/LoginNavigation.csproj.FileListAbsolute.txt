@@ -1,0 +1,13 @@
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/LoginFlow/LoginNavigation/bin/Debug/netstandard2.0/LoginNavigation.deps.json
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/LoginFlow/LoginNavigation/bin/Debug/netstandard2.0/LoginNavigation.dll
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/LoginFlow/LoginNavigation/bin/Debug/netstandard2.0/LoginNavigation.pdb
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/LoginFlow/LoginNavigation/obj/Debug/netstandard2.0/LoginNavigation.csprojAssemblyReference.cache
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/LoginFlow/LoginNavigation/obj/Debug/netstandard2.0/LoginPage.xaml.g.cs
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/LoginFlow/LoginNavigation/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/LoginFlow/LoginNavigation/obj/Debug/netstandard2.0/SignUpPage.xaml.g.cs
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/LoginFlow/LoginNavigation/obj/Debug/netstandard2.0/LoginNavigation.csproj.CoreCompileInputs.cache
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/LoginFlow/LoginNavigation/obj/Debug/netstandard2.0/LoginNavigation.AssemblyInfoInputs.cache
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/LoginFlow/LoginNavigation/obj/Debug/netstandard2.0/LoginNavigation.AssemblyInfo.cs
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/LoginFlow/LoginNavigation/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/LoginFlow/LoginNavigation/obj/Debug/netstandard2.0/LoginNavigation.dll
+/Users/oskarthansen/workspace/PRJ4 APP/TestApps/AppTest/LoginFlow/LoginNavigation/obj/Debug/netstandard2.0/LoginNavigation.pdb

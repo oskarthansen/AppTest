@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{40E0C4DB-A9B5-4390-AE7F-F18ACAB46D99}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinNew/MainPage.xaml">
+    <Files>
+      <File FileName="XamarinNew/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="XamarinNew/MainPage.xaml" Line="9" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamarinNew" expanded="True" selected="True">
+            <Node name="XamarinNew" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XamarinNew.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.XamarinNew.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.437E16DA-FE8E-44DD-9F3F-037D7F9E3813" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
